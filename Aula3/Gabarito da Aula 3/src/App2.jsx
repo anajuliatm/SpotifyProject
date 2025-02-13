@@ -52,3 +52,9 @@ export default App2;
 
 //SpreadOperator
 // ... 
+
+// npm i 
+// npm run dev
+// npm i react-router-dom
+
+// <BrowserRouter> = gerencia as rotas
