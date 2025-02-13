@@ -58,3 +58,10 @@ export default App2;
 // npm i react-router-dom
 
 // <BrowserRouter> = gerencia as rotas
+
+/*
+Quando componentes se re-redenrizão?
+Uma das ocasiões é quando uma variável de estado usada por esse componente é atualizada
+*/
+
+// Hook - useState
