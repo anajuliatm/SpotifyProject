@@ -47,3 +47,8 @@ export default App2;
 // Tag vazia em react se chama Fragmente ou Fragmento
 
 // Font Awesome - https://fontawesome.com/icons
+
+// Componentes recebem "props" (parametros/argumentos)
+
+//SpreadOperator
+// ... 
