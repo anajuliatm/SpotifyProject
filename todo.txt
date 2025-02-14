@@ -1,6 +1,6 @@
 *O QUE FAZER*
 - Construir a API -> Tecnologia: Express ok
 - Conexão com o Banco de Dados ok
-- Conectar o Front com o Back
+- Conectar o Front com o Back ok
 - Lógicas do Player
 - GitHub e Deploy
