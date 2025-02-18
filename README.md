@@ -2,7 +2,7 @@
  Este é um projeto de réplica do Spotify, desenvolvido para fins educacionais e aprimoramento de habilidades em desenvolvimento web.
  A versão final com todas as aplicações utilizadas se encontra na pasta '/Aula4'
 
-# Confira o projeto finalizado!
+# 👀 Confira o projeto finalizado!
 > https://spotify-deploy-tn22.onrender.com/
 
 # 🚀 O que usei 
